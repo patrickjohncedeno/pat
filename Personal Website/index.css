@@ -1,0 +1,53 @@
+.toplayer{
+    display: flex;
+    background-color: blanchedalmond;
+    align-items: center;
+    margin: -10px;
+    justify-content: center;
+}
+.logo{
+
+}
+.brand{
+}
+.pic{
+    width: 80px;
+    height: 80px;
+}
+.namefont{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.select{
+    display:flex;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: moccasin;
+    margin-top: 50px;
+    border-radius: 100px;
+    height: 650px;
+    width: 1200px;
+    box-shadow: 10px 10px 8px;
+}
+.row1{
+    display: flex;
+   
+}
+.americano{
+    width: 100px;
+    height: 100px;
+    
+    
+}
+.box{
+    display: flex;
+    background-color: beige;
+    border-radius: 30px;
+    width: 130px;
+    height: 130px;
+    justify-content: center;
+    align-items: center;
+    margin: 80px;
+    
+}
